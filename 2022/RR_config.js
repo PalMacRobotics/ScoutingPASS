@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2020ilch",
+        "defaultValue":"2022nyro",
         "required":"true",
         "disabled":"true"
       },
